@@ -2,7 +2,7 @@
 
 This project is an Android-based AI ChatBot built using Java and Retrofit, powered by OpenAI's GPT API. It provides a simple, clean chat interface where users can send and receive messages in real time, with styled bubbles, user initials, and smooth UI interactions.
 
-## ✨ Features
+## Features
 
 - **User Login Integration** (Username passed via Intent)
 - **Chat Interface** with scrollable conversation history
@@ -13,7 +13,7 @@ This project is an Android-based AI ChatBot built using Java and Retrofit, power
 - **Asynchronous API calls** via Retrofit
 - Clean UI with usability in mind
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Java** for Android
 - **Retrofit** for HTTP requests
@@ -21,7 +21,7 @@ This project is an Android-based AI ChatBot built using Java and Retrofit, power
 - **Android Studio** for development
 - **Material Design** principles
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Android Studio
